@@ -1,0 +1,1416 @@
+{
+  "source_file": "Red Herring Prospectus.docx",
+  "source_sha256": "8b5c93f7642d659e64b51be9f6172c86c2825417f376ca1800ed331515e6f929",
+  "method": "Source-reviewed entity catalog; document-specific assisted redaction, not held-out model performance.",
+  "reviewer": "AI-assisted review against the supplied source; not independently human-adjudicated.",
+  "entities": [
+    {
+      "label": "PERSON",
+      "canonical": "Kushal Subbayya Hegde",
+      "aliases": [
+        "Kushal Hegde"
+      ],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Pushpa Kushal Hegde",
+      "aliases": [
+        "Pushpa Hegde"
+      ],
+      "source_ids": [
+        "word/document.xml:p28",
+        "word/document.xml:p3121"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Rajesh Kushal Hegde",
+      "aliases": [
+        "Rajesh Hegde"
+      ],
+      "source_ids": [
+        "word/document.xml:p1346",
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Rohit Kushal Hegde",
+      "aliases": [
+        "Rohit Hegde"
+      ],
+      "source_ids": [
+        "word/document.xml:p28",
+        "word/document.xml:p3090"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Rakhi Girija Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Sarthak Malvadkar",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p23"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Lokesh Shah",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p93"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Soumavo Sarkar",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p93"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Kishan Rastogi",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p101"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Abhijit Diwan",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p101"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Shanti Gopalkrishnan",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p111"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Lalit Muljibhai Sarvaiya",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p286"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Sandesh Bhagwat",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p253"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Amod Joshi",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p255"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Sangeeta Ramprasad Rai",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p339"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Katyayani Balasubramanian",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1352"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Rupal K. Sancheti",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1543"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Salil Ajay Bhargava",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1550"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Jabeen Ajay Menon",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1557"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Ajay Menon",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1557"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Ganesh Prasad",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1776"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "DM Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3056"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Gopal BO",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3056"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Karunakar Bhandary",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3060"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "SA Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3060"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Jayaram Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3064"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Karunakar Hegde",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3068"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Vijay Hegde",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3100"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Karunakar N. Bhandary",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3130"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Narayna B. Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3130"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Jayaram N. Shetty",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3130"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Dinesh Hirachand Munot",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3873"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Ajay Shriram Patil",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3873"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Ram Kumar Tiwari",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4126"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Indu Jacob",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4130"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Prakash Boricha",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4252"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Eric Bacha",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4282"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Sachin Gawade",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4282"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Pravin Teli",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4282"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Siddharth Jadhav",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4282"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Tushar Gavankar",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4282"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Varun Badai",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4289"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Hitesh Ramani",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4377"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Chitra Raste",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4387"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Sharmila Joshi",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4394"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Cherag Gyara",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4399"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Manisha Shukla",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4405"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Tushar Wakhele",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4412"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Ashish Mathew Pulloor",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4419"
+      ]
+    },
+    {
+      "label": "PERSON",
+      "canonical": "Anand Soni",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4426"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH International Limited",
+      "aliases": [
+        "KSH International Private Limited",
+        "KSH International"
+      ],
+      "source_ids": [
+        "word/document.xml:p11",
+        "word/document.xml:p133"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Bhandary Metal Extrusion Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p133"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Dhaulagiri Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Everest Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Makalu Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Broad Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Annapurna Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Kanchenjunga Family Trust",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p28"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park VI Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p29"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Kirtane & Pandit LLP",
+      "aliases": [
+        "Kirtane & Pandit, LLP",
+        "Kirtane & Pandit"
+      ],
+      "source_ids": [
+        "word/document.xml:p4333",
+        "word/document.xml:p71"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "BSE Limited",
+      "aliases": [
+        "BSE"
+      ],
+      "source_ids": [
+        "word/document.xml:p85"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "National Stock Exchange of India Limited",
+      "aliases": [
+        "National Stock Exchange",
+        "NSE"
+      ],
+      "source_ids": [
+        "word/document.xml:p85"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Nuvama Wealth Management Limited",
+      "aliases": [
+        "Nuvama"
+      ],
+      "source_ids": [
+        "word/document.xml:p92"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "ICICI Securities Limited",
+      "aliases": [
+        "ICICI Securities",
+        "I-Sec"
+      ],
+      "source_ids": [
+        "word/document.xml:p4192",
+        "word/document.xml:p99"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "MUFG Intime India Private Limited",
+      "aliases": [
+        "Link Intime India Private Limited"
+      ],
+      "source_ids": [
+        "word/document.xml:p109",
+        "word/document.xml:p110"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "CARE Analytics and Advisory Private Limited",
+      "aliases": [
+        "CareEdge Research"
+      ],
+      "source_ids": [
+        "word/document.xml:p248",
+        "word/document.xml:p287"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Precision Wires India Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1034"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Malabar India Fund Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1536"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Al-Ahleia Switchgear Co.",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Bharat Bijlee Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "CG Power and Industrial Solutions Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Emirates Transformer & Switchgear Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Georgia Transformer Corporation",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Nidec Industrial Automation India Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Transformers & Rectifiers (India) Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Virginia Transformer Corporation",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2396"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Ahlstrom Sweden AB",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Cindus Corporation",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Elantas Beck India Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Hindalco Industries Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Polycom Associates",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Savli Copper Products Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Union Copper Rod LLC",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Vedanta Limited Sterlite Copper",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2582"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Karunakar Hegde HUF",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3076"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Motors Private Limited",
+      "aliases": [
+        "Waterloo Motors"
+      ],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Project Management Services Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Infra Park VI Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Infra Park 5 Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Distriparks Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Integrated Logistics Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Kushal Motors and Electricals Private Limited",
+      "aliases": [
+        "Kushal Motors"
+      ],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Kushal Electricals",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1845"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park I Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park II Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park III Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park IV Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park V Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park VIII Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park IX Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park IX A Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Waterloo Industrial Park IX B Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p281"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "KSH Infra Park IV Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p282"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "CARE Ratings Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p532"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Shubhkamal Leasing and Investment Private Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3085"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Parijat Foundation",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1882"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Trilegal",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4261"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "HDFC Bank Limited",
+      "aliases": [
+        "HDFC Bank",
+        "HDFC"
+      ],
+      "source_ids": [
+        "word/document.xml:p508"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "ICICI Bank Limited",
+      "aliases": [
+        "ICICI Bank"
+      ],
+      "source_ids": [
+        "word/document.xml:p588"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Kanj & Co. LLP",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4335"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Hingne Tare & Associates",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4363"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Citibank N.A.",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4373"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Export-Import Bank of India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4383"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "IndusInd Bank Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4391"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "HDFC Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4355"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "State Bank of India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4408"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "The Federal Bank Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4417"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Bajaj Finance Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4423"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "National Securities Depository Limited",
+      "aliases": [
+        "NSDL"
+      ],
+      "source_ids": [
+        "word/document.xml:p729",
+        "word/document.xml:p815"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Central Depository Services (India) Limited",
+      "aliases": [
+        "Central Depository Services",
+        "CDSL"
+      ],
+      "source_ids": [
+        "word/document.xml:p712",
+        "word/document.xml:p713"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "National Payments Corporation of India",
+      "aliases": [
+        "NPCI"
+      ],
+      "source_ids": [
+        "word/document.xml:p639",
+        "word/document.xml:p807"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "Solar Energy Corporation of India Limited",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p1056"
+      ]
+    },
+    {
+      "label": "COMPANY",
+      "canonical": "London Metal Exchange",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p2608"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p18",
+        "word/document.xml:p19"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p20",
+        "word/document.xml:p21"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p135"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p136"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p168"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p176"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p185"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p324"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Plot No. J-25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p352"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Plot No. 5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p356"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Plot No. F-223, Supa Parner Industrial Park, Mauje Palve Khurd, Taluka Parner, Dist – Ahmednagar, Maharashtra – 414 301",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p3499"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "11/3, 11/4 and 11/5, Village Birdewadi Chakan, Taluka-Khed\nPune – 410 501\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4080",
+        "word/document.xml:p4081",
+        "word/document.xml:p4082"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "201, Tower-2, Montreal Business Centre Off Pallod Farms, Baner\nPune 411 045 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4085",
+        "word/document.xml:p4086"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4093"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no. 3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4104"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4108"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Pushpakamal Apartment, Flat – 1, S. no. 245/ 104, Prabhat Road Lane no. 3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4112"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no.\n3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4116",
+        "word/document.xml:p4117"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4121"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4125"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "A-259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4129"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4133"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Gat No. 11/3, 11/4, 11/5, Village Birdewadi\nTaluka Khed, District Pune – 410 501\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4139",
+        "word/document.xml:p4140",
+        "word/document.xml:p4141"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "801-804, Wing A, Building No. 3 Inspire BKC G Block, Bandra Kurla Complex\nBandra East, Mumbai – 400 051 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4152",
+        "word/document.xml:p4153"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "ICICI Venture House Appasaheb Marathe Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4159"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "801-804, Wing A, Building No 3 Inspire BKC, G Block\nBandra Kurla Complex, Bandra East Mumbai 400 051\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4246",
+        "word/document.xml:p4247",
+        "word/document.xml:p4248"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "One World Centre\n10th Floor, Tower 2A & 2B\nSenapati Bapat Marg, Lower Parel (West) Mumbai – 400 013\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4262",
+        "word/document.xml:p4263",
+        "word/document.xml:p4264",
+        "word/document.xml:p4265"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "C-101, Embassy 247\n1st Floor, L B S Marg, Vikhroli (West) Mumbai 400083, (Maharashtra), India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4270",
+        "word/document.xml:p4271"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Lodha I Think Techno Campus, O-3 Level\nNext to Kanjurmarg Railway Station, Kanjurmarg (East) Mumbai – 400042, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4278",
+        "word/document.xml:p4279"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4289"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "5th Floor, Wing A, Gopal House\nS. No. 127/1B/1, Plot A1 Opp Harshal Hall Kothrud\nPune – 411 038\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4339",
+        "word/document.xml:p4340",
+        "word/document.xml:p4341",
+        "word/document.xml:p4342"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "5th Floor, Gopal House\nOpposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4354",
+        "word/document.xml:p4355",
+        "word/document.xml:p4356"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Flat No. 102, Sai Complex Shaniwar Peth, Pune – 411 030 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4363"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "8th Floor, Onyx Tower North Main Road\nKoregaon Park, Pune – 411 001 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4374",
+        "word/document.xml:p4375"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "No. 401, 401(A), 401(B)\n& 402, 402(A), 402(B), 4th Floor\nSignature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4384",
+        "word/document.xml:p4385",
+        "word/document.xml:p4386"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "2401 Gen Thimmayya Road, Cantonment\nPune – 411 001\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4391",
+        "word/document.xml:p4392",
+        "word/document.xml:p4393"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "3rd Floor, 362, Satguru House Next to Tanishq Showroom, CTS No. 30\nBund Garden Road, Pune – 411 001 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4397",
+        "word/document.xml:p4398"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "5th Floor, Marathon IT Park Bund Garden Road\nPune – 411 001\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4402",
+        "word/document.xml:p4403",
+        "word/document.xml:p4404"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Tara Chambers, Mumbai-Pune Road, Wakdewadi\nPune – 411 003\nMaharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4409",
+        "word/document.xml:p4410",
+        "word/document.xml:p4411"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "Ground Floor, Kubera Chambers Opp. Sancheti Hospital Shivajinagar, Pune – 41l 005 Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4417"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "The Capital\nUnit no. 1601, B- wing BKC, Mumbai Maharashtra India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4424",
+        "word/document.xml:p4425"
+      ]
+    },
+    {
+      "label": "ADDRESS",
+      "canonical": "SEBI Bhavan, Plot No. C4 A, ‘G’ Block\nBandra Kurla Complex, Bandra (E) Mumbai – 400 051, Maharashtra, India",
+      "aliases": [],
+      "source_ids": [
+        "word/document.xml:p4444",
+        "word/document.xml:p4445"
+      ]
+    }
+  ]
+}
