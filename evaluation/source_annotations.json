@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "word/document.xml:p4-p4",
+    "group": "targeted_regression",
+    "text": "RED HERRING PROSPECTUS",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p5-p5",
+    "group": "targeted_regression",
+    "text": "Dated December 10, 2025",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p6-p6",
+    "group": "targeted_regression",
+    "text": "Please read section 32 of the Companies Act, 2013",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p7-p7",
+    "group": "targeted_regression",
+    "text": "100% Book Built Offer",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p11-p11",
+    "group": "targeted_regression",
+    "text": "KSH INTERNATIONAL LIMITED CORPORATE IDENTITY NUMBER: U28129PN1979PLC141032",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 0,
+        "end": 25,
+        "text": "KSH INTERNATIONAL LIMITED"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p13-p17",
+    "group": "targeted_regression",
+    "text": "REGISTERED OFFICE\nCORPORATE OFFICE\nCONTACT PERSON\nE-MAIL AND TELEPHONE\nWEBSITE",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p18-p19",
+    "group": "targeted_regression",
+    "text": "11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 92,
+        "text": "11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p20-p21",
+    "group": "targeted_regression",
+    "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 97,
+        "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p23-p23",
+    "group": "targeted_regression",
+    "text": "Sarthak Malvadkar Company Secretary and Compliance Officer",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 17,
+        "text": "Sarthak Malvadkar"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p25-p25",
+    "group": "targeted_regression",
+    "text": "Email: cs.connect@kshinternational.com Telephone: + 91 20 45053237",
+    "spans": [
+      {
+        "label": "EMAIL",
+        "start": 7,
+        "end": 38,
+        "text": "cs.connect@kshinternational.com"
+      },
+      {
+        "label": "PHONE",
+        "start": 50,
+        "end": 66,
+        "text": "+ 91 20 45053237"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p28-p29",
+    "group": "targeted_regression",
+    "text": "OUR PROMOTERS: KUSHAL SUBBAYYA HEGDE, PUSHPA KUSHAL HEGDE, RAJESH KUSHAL HEGDE, ROHIT KUSHAL HEGDE, RAKHI GIRIJA SHETTY, DHAULAGIRI FAMILY TRUST, EVEREST FAMILY TRUST, MAKALU FAMILY TRUST, BROAD FAMILY TRUST, ANNAPURNA FAMILY TRUST, KANCHENJUNGA FAMILY TRUST AND\nWATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 15,
+        "end": 36,
+        "text": "KUSHAL SUBBAYYA HEGDE"
+      },
+      {
+        "label": "PERSON",
+        "start": 38,
+        "end": 57,
+        "text": "PUSHPA KUSHAL HEGDE"
+      },
+      {
+        "label": "PERSON",
+        "start": 59,
+        "end": 78,
+        "text": "RAJESH KUSHAL HEGDE"
+      },
+      {
+        "label": "PERSON",
+        "start": 80,
+        "end": 98,
+        "text": "ROHIT KUSHAL HEGDE"
+      },
+      {
+        "label": "PERSON",
+        "start": 100,
+        "end": 119,
+        "text": "RAKHI GIRIJA SHETTY"
+      },
+      {
+        "label": "COMPANY",
+        "start": 121,
+        "end": 144,
+        "text": "DHAULAGIRI FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 146,
+        "end": 166,
+        "text": "EVEREST FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 168,
+        "end": 187,
+        "text": "MAKALU FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 189,
+        "end": 207,
+        "text": "BROAD FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 209,
+        "end": 231,
+        "text": "ANNAPURNA FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 233,
+        "end": 258,
+        "text": "KANCHENJUNGA FAMILY TRUST"
+      },
+      {
+        "label": "COMPANY",
+        "start": 263,
+        "end": 306,
+        "text": "WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p55-p58",
+    "group": "targeted_regression",
+    "text": "Kushal Subbayya Hegde\nPromoter Selling Shareholder\n1,528.00\n1.36",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 21,
+        "text": "Kushal Subbayya Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p59-p62",
+    "group": "targeted_regression",
+    "text": "Pushpa Kushal Hegde\nPromoter Selling Shareholder\n422.00\n1.51",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 19,
+        "text": "Pushpa Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p63-p66",
+    "group": "targeted_regression",
+    "text": "Rajesh Kushal Hegde\nPromoter Selling Shareholder\n475.00\n1.41",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 19,
+        "text": "Rajesh Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p67-p70",
+    "group": "targeted_regression",
+    "text": "Rohit Kushal Hegde\nPromoter Selling Shareholder\n475.00\n1.35",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 18,
+        "text": "Rohit Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p71-p71",
+    "group": "targeted_regression",
+    "text": "*As certified by Kirtane & Pandit LLP, Chartered Accountants, our Statutory Auditors, by way of their certificate dated December 10, 2025. For further details, see “Summary of the Offer Document – Average cost of acquisition of Equity Shares by our Promoters and the Promoter Selling Shareholders” on page 26.",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 17,
+        "end": 37,
+        "text": "Kirtane & Pandit LLP"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p72-p72",
+    "group": "targeted_regression",
+    "text": "#As adjusted for Split of Equity Shares and Bonus Issue.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p76-p76",
+    "group": "targeted_regression",
+    "text": "GENERAL RISKS",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p82-p83",
+    "group": "targeted_regression",
+    "text": "Our Company, having made all reasonable inquiries, accepts responsibility for and confirms that this Red Herring Prospectus contains all information with regard to our Company and the Offer, which is material in the context of the Offer, that the information contained in this Red Herring Prospectus is true and correct in all material aspects and is not misleading in any material respect, that the opinions and intentions expressed herein are honestly held and that there are no other facts, the omission of which makes this Red Herring Prospectus as a whole or any of such information or the expression of any such opinions or intentions misleading in any material respect. Each of the Promoter Selling Shareholders, severally and not jointly, accepts responsibility for and confirms the statements specifically made or confirmed by them in this Red Herring Prospectus solely to the extent of information specifically pertaining to themselves and the Equity Shares offered by them in the Offer for Sale and assumes responsibility that such statements are true and correct in all material respects and are not misleading in any material respect. Each of the Promoter Selling Shareholders, severally and not jointly, assumes no responsibility for any other statements, including, inter alia, any and all of the statements made by or relating to our Company or its business or any other Promoter Selling Shareholder\nor any other person, in this Red Herring Prospectus.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p92-p95",
+    "group": "targeted_regression",
+    "text": "\tNuvama\tWealth Management Limited\nLokesh Shah/ Soumavo Sarkar\nEmail: ksh.ipo@nuvama.com\nTelephone: +91 22 4009 4400",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 1,
+        "end": 33,
+        "text": "Nuvama\tWealth Management Limited"
+      },
+      {
+        "label": "PERSON",
+        "start": 34,
+        "end": 45,
+        "text": "Lokesh Shah"
+      },
+      {
+        "label": "PERSON",
+        "start": 47,
+        "end": 61,
+        "text": "Soumavo Sarkar"
+      },
+      {
+        "label": "EMAIL",
+        "start": 69,
+        "end": 87,
+        "text": "ksh.ipo@nuvama.com"
+      },
+      {
+        "label": "PHONE",
+        "start": 99,
+        "end": 115,
+        "text": "+91 22 4009 4400"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p99-p104",
+    "group": "targeted_regression",
+    "text": "\tICICI\tSecurities Limited\n\nKishan Rastogi/ Abhijit Diwan\n\nEmail: ksh@icicisecurities.com\nTelephone: +91 22 6807 7100",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 1,
+        "end": 25,
+        "text": "ICICI\tSecurities Limited"
+      },
+      {
+        "label": "PERSON",
+        "start": 27,
+        "end": 41,
+        "text": "Kishan Rastogi"
+      },
+      {
+        "label": "PERSON",
+        "start": 43,
+        "end": 56,
+        "text": "Abhijit Diwan"
+      },
+      {
+        "label": "EMAIL",
+        "start": 65,
+        "end": 88,
+        "text": "ksh@icicisecurities.com"
+      },
+      {
+        "label": "PHONE",
+        "start": 100,
+        "end": 116,
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p109-p113",
+    "group": "targeted_regression",
+    "text": "MUFG Intime India Private Limited\n(Formerly Link Intime India Private Limited)\nShanti Gopalkrishnan\nTelephone: +91 81081 14949\nE-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 0,
+        "end": 33,
+        "text": "MUFG Intime India Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 44,
+        "end": 77,
+        "text": "Link Intime India Private Limited"
+      },
+      {
+        "label": "PERSON",
+        "start": 79,
+        "end": 99,
+        "text": "Shanti Gopalkrishnan"
+      },
+      {
+        "label": "PHONE",
+        "start": 111,
+        "end": 126,
+        "text": "+91 81081 14949"
+      },
+      {
+        "label": "EMAIL",
+        "start": 135,
+        "end": 172,
+        "text": "kshinternational.ipo@in.mpms.mufg.com"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p135-p135",
+    "group": "targeted_regression",
+    "text": "Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India;",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 19,
+        "end": 115,
+        "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p136-p136",
+    "group": "targeted_regression",
+    "text": "Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India;",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 18,
+        "end": 117,
+        "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p137-p137",
+    "group": "targeted_regression",
+    "text": "Contact Person: Sarthak Malvadkar, Company Secretary and Compliance Officer; Telephone: + 91 20 4505 3237;",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 16,
+        "end": 33,
+        "text": "Sarthak Malvadkar"
+      },
+      {
+        "label": "PHONE",
+        "start": 88,
+        "end": 105,
+        "text": "+ 91 20 4505 3237"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p168-p168",
+    "group": "targeted_regression",
+    "text": "801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 124,
+        "text": "801 - 804, Wing A, Building No 3, Inspire BKC, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p176-p176",
+    "group": "targeted_regression",
+    "text": "ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 90,
+        "text": "ICICI Venture House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400025, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p185-p185",
+    "group": "targeted_regression",
+    "text": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 95,
+        "text": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p253-p253",
+    "group": "targeted_regression",
+    "text": "The chief executive officer of our Company, being Sandesh Bhagwat. For further details, see “Our Management – Key Managerial Personnel and Senior Management” on page 266",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 50,
+        "end": 65,
+        "text": "Sandesh Bhagwat"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p255-p255",
+    "group": "targeted_regression",
+    "text": "The chief financial officer of our Company, being Amod Joshi. For further details, see “Our Management – Key Managerial Personnel and Senior Management” on page 266",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 50,
+        "end": 60,
+        "text": "Amod Joshi"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p286-p286",
+    "group": "targeted_regression",
+    "text": "The independent chartered engineer appointed by our Company, namely, Lalit Muljibhai Sarvaiya bearing registration number M-140388",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 69,
+        "end": 93,
+        "text": "Lalit Muljibhai Sarvaiya"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p288-p288",
+    "group": "targeted_regression",
+    "text": "The industry data provider being, CARE Analytics and Advisory Private Limited",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 34,
+        "end": 77,
+        "text": "CARE Analytics and Advisory Private Limited"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p339-p339",
+    "group": "targeted_regression",
+    "text": "Sangeeta Ramprasad Rai, her spouse, her children, lineal descendants and Kanchenjunga Family Trust",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 22,
+        "text": "Sangeeta Ramprasad Rai"
+      },
+      {
+        "label": "COMPANY",
+        "start": 73,
+        "end": 98,
+        "text": "Kanchenjunga Family Trust"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1352-p1352",
+    "group": "targeted_regression",
+    "text": "Katyayani Balasubramanian",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 25,
+        "text": "Katyayani Balasubramanian"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1536-p1536",
+    "group": "targeted_regression",
+    "text": "Malabar India Fund Limited",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 0,
+        "end": 26,
+        "text": "Malabar India Fund Limited"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1543-p1543",
+    "group": "targeted_regression",
+    "text": "Rupal K. Sancheti",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 17,
+        "text": "Rupal K. Sancheti"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1550-p1550",
+    "group": "targeted_regression",
+    "text": "Salil Ajay Bhargava",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 19,
+        "text": "Salil Ajay Bhargava"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1557-p1557",
+    "group": "targeted_regression",
+    "text": "Jabeen Ajay Menon",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 17,
+        "text": "Jabeen Ajay Menon"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1564-p1564",
+    "group": "targeted_regression",
+    "text": "Ajay Menon",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 10,
+        "text": "Ajay Menon"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p1776-p1776",
+    "group": "targeted_regression",
+    "text": "Certain of our SMs including, Sandesh Bhagwat, CEO, Amod Joshi, CFO, Sarthak Malvadkar, CS and Compliance Officer, and Ganesh Prasad, Technical Director, are also our KMPs. Hence, litigation against our KMPs have not been included under the heading of SMs to avoid repetition.",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 30,
+        "end": 45,
+        "text": "Sandesh Bhagwat"
+      },
+      {
+        "label": "PERSON",
+        "start": 52,
+        "end": 62,
+        "text": "Amod Joshi"
+      },
+      {
+        "label": "PERSON",
+        "start": 69,
+        "end": 86,
+        "text": "Sarthak Malvadkar"
+      },
+      {
+        "label": "PERSON",
+        "start": 119,
+        "end": 132,
+        "text": "Ganesh Prasad"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p2396-p2396",
+    "group": "targeted_regression",
+    "text": "Note: Our top 10 customers include Al-Ahleia Switchgear Co., Bharat Bijlee Limited; CG Power and Industrial Solutions Limited; Emirates Transformer & Switchgear Limited; Georgia Transformer Corporation; Nidec Industrial Automation India Private Limited; Transformers & Rectifiers (India) Limited; and Virginia Transformer Corporation. Names of other customers who form part of our top 10 customers during the periods/ Fiscals included above, have not been included in this Red Herring Prospectus due to non-receipt of consent from such customers to be named in the Offer Documents.",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 35,
+        "end": 59,
+        "text": "Al-Ahleia Switchgear Co."
+      },
+      {
+        "label": "COMPANY",
+        "start": 61,
+        "end": 82,
+        "text": "Bharat Bijlee Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 84,
+        "end": 125,
+        "text": "CG Power and Industrial Solutions Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 127,
+        "end": 168,
+        "text": "Emirates Transformer & Switchgear Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 170,
+        "end": 201,
+        "text": "Georgia Transformer Corporation"
+      },
+      {
+        "label": "COMPANY",
+        "start": 203,
+        "end": 252,
+        "text": "Nidec Industrial Automation India Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 254,
+        "end": 295,
+        "text": "Transformers & Rectifiers (India) Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 301,
+        "end": 333,
+        "text": "Virginia Transformer Corporation"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p2582-p2582",
+    "group": "targeted_regression",
+    "text": "Note: Our top 10 suppliers include Ahlstrom Sweden AB; Cindus Corporation; Elantas Beck India Limited; Hindalco Industries Limited; Polycom Associates; Savli Copper Products Private Limited; Union Copper Rod LLC; and Vedanta Limited Sterlite Copper. Names of other suppliers have not been included in this Red Herring Prospectus due to non-receipt of consent from such suppliers to be named in the Offer Documents.",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 35,
+        "end": 53,
+        "text": "Ahlstrom Sweden AB"
+      },
+      {
+        "label": "COMPANY",
+        "start": 55,
+        "end": 73,
+        "text": "Cindus Corporation"
+      },
+      {
+        "label": "COMPANY",
+        "start": 75,
+        "end": 101,
+        "text": "Elantas Beck India Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 103,
+        "end": 130,
+        "text": "Hindalco Industries Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 132,
+        "end": 150,
+        "text": "Polycom Associates"
+      },
+      {
+        "label": "COMPANY",
+        "start": 152,
+        "end": 189,
+        "text": "Savli Copper Products Private Limited"
+      },
+      {
+        "label": "COMPANY",
+        "start": 191,
+        "end": 211,
+        "text": "Union Copper Rod LLC"
+      },
+      {
+        "label": "COMPANY",
+        "start": 217,
+        "end": 248,
+        "text": "Vedanta Limited Sterlite Copper"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p3056-p3056",
+    "group": "targeted_regression",
+    "text": "Form 7B for transfer of shares to Kushal Hegde from DM Shetty and Gopal BO.",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 34,
+        "end": 46,
+        "text": "Kushal Hegde"
+      },
+      {
+        "label": "PERSON",
+        "start": 52,
+        "end": 61,
+        "text": "DM Shetty"
+      },
+      {
+        "label": "PERSON",
+        "start": 66,
+        "end": 74,
+        "text": "Gopal BO"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p3100-p3100",
+    "group": "targeted_regression",
+    "text": "Form 7B for transfer of shares to Rajesh Hegde by Vijay Hegde.",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 34,
+        "end": 46,
+        "text": "Rajesh Hegde"
+      },
+      {
+        "label": "PERSON",
+        "start": 50,
+        "end": 61,
+        "text": "Vijay Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p3130-p3130",
+    "group": "targeted_regression",
+    "text": "In addition, 1,000, equity shares of face value of ₹100 each allotted to Karunakar N. Bhandary, 500 equity shares of face value of ₹100 each allotted to Kushal Subbayya Hegde, Narayna B. Shetty and Jayaram N. Shetty, respectively, pursuant to the initial subscription to the MoA dated June 29, 1979, were subsequently taken on record by the Board by way of a resolution dated August 25, 1979. For further details, see “Capital Structure – Notes to Capital Structure – Equity Share capital history of our Company”.",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 73,
+        "end": 94,
+        "text": "Karunakar N. Bhandary"
+      },
+      {
+        "label": "PERSON",
+        "start": 153,
+        "end": 174,
+        "text": "Kushal Subbayya Hegde"
+      },
+      {
+        "label": "PERSON",
+        "start": 176,
+        "end": 193,
+        "text": "Narayna B. Shetty"
+      },
+      {
+        "label": "PERSON",
+        "start": 198,
+        "end": 215,
+        "text": "Jayaram N. Shetty"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4080-p4082",
+    "group": "targeted_regression",
+    "text": "11/3, 11/4 and 11/5, Village Birdewadi Chakan, Taluka-Khed\nPune – 410 501\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 92,
+        "text": "11/3, 11/4 and 11/5, Village Birdewadi Chakan, Taluka-Khed\nPune – 410 501\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4085-p4086",
+    "group": "targeted_regression",
+    "text": "201, Tower-2, Montreal Business Centre Off Pallod Farms, Baner\nPune 411 045 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 94,
+        "text": "201, Tower-2, Montreal Business Centre Off Pallod Farms, Baner\nPune 411 045 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4088-p4089",
+    "group": "targeted_regression",
+    "text": "Registration number: 141032\nCorporate identity number: U28129PN1979PLC141032",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p4093-p4093",
+    "group": "targeted_regression",
+    "text": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 117,
+        "text": "PCNTDA Green Building Block A 1st and 2nd floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4101-p4101",
+    "group": "targeted_regression",
+    "text": "Kushal Subbayya Hegde",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 21,
+        "text": "Kushal Subbayya Hegde"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4104-p4104",
+    "group": "targeted_regression",
+    "text": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no. 3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 161,
+        "text": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no. 3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune – 411 004 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4108-p4108",
+    "group": "targeted_regression",
+    "text": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 103,
+        "text": "12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4112-p4112",
+    "group": "targeted_regression",
+    "text": "Pushpakamal Apartment, Flat – 1, S. no. 245/ 104, Prabhat Road Lane no. 3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 141,
+        "text": "Pushpakamal Apartment, Flat – 1, S. no. 245/ 104, Prabhat Road Lane no. 3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4116-p4117",
+    "group": "targeted_regression",
+    "text": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no.\n3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 173,
+        "text": "S. no. 245/ 104, Pushpakamal, Deccan Gymkhana Society, lane no.\n3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4121-p4121",
+    "group": "targeted_regression",
+    "text": "Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 120,
+        "text": "Pratik Bunglow, Senapati Bapat Road, behind Sahara Hotel, Shivajinagar, Model Colony, Pune – 411 016, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4125-p4125",
+    "group": "targeted_regression",
+    "text": "602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 102,
+        "text": "602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4126-p4126",
+    "group": "targeted_regression",
+    "text": "Ram Kumar Tiwari",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 16,
+        "text": "Ram Kumar Tiwari"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4129-p4129",
+    "group": "targeted_regression",
+    "text": "A-259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 91,
+        "text": "A-259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4130-p4130",
+    "group": "targeted_regression",
+    "text": "Indu Jacob",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 0,
+        "end": 10,
+        "text": "Indu Jacob"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4133-p4133",
+    "group": "targeted_regression",
+    "text": "A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 74,
+        "text": "A29, Abhimanshree Society, Pashan Road, Pune – 411 008, Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4152-p4153",
+    "group": "targeted_regression",
+    "text": "801-804, Wing A, Building No. 3 Inspire BKC G Block, Bandra Kurla Complex\nBandra East, Mumbai – 400 051 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 122,
+        "text": "801-804, Wing A, Building No. 3 Inspire BKC G Block, Bandra Kurla Complex\nBandra East, Mumbai – 400 051 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4154-p4154",
+    "group": "targeted_regression",
+    "text": "Telephone: +91 22 40094400 Email: ksh.ipo@nuvama.com Website: www.nuvama.com",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 26,
+        "text": "+91 22 40094400"
+      },
+      {
+        "label": "EMAIL",
+        "start": 34,
+        "end": 52,
+        "text": "ksh.ipo@nuvama.com"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4246-p4248",
+    "group": "targeted_regression",
+    "text": "801-804, Wing A, Building No 3 Inspire BKC, G Block\nBandra Kurla Complex, Bandra East Mumbai 400 051\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 119,
+        "text": "801-804, Wing A, Building No 3 Inspire BKC, G Block\nBandra Kurla Complex, Bandra East Mumbai 400 051\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4249-p4249",
+    "group": "targeted_regression",
+    "text": "Telephone: + 91 22 4009 4400",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 28,
+        "text": "+ 91 22 4009 4400"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4250-p4250",
+    "group": "targeted_regression",
+    "text": "Email: ksh.ipo@nuvama.com, prakash.boricha@nuvama.com, and sheetal.parab@nuvama.com",
+    "spans": [
+      {
+        "label": "EMAIL",
+        "start": 7,
+        "end": 25,
+        "text": "ksh.ipo@nuvama.com"
+      },
+      {
+        "label": "EMAIL",
+        "start": 27,
+        "end": 53,
+        "text": "prakash.boricha@nuvama.com"
+      },
+      {
+        "label": "EMAIL",
+        "start": 59,
+        "end": 83,
+        "text": "sheetal.parab@nuvama.com"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4252-p4252",
+    "group": "targeted_regression",
+    "text": "Contact Person: Prakash Boricha",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 16,
+        "end": 31,
+        "text": "Prakash Boricha"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4262-p4265",
+    "group": "targeted_regression",
+    "text": "One World Centre\n10th Floor, Tower 2A & 2B\nSenapati Bapat Marg, Lower Parel (West) Mumbai – 400 013\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 118,
+        "text": "One World Centre\n10th Floor, Tower 2A & 2B\nSenapati Bapat Marg, Lower Parel (West) Mumbai – 400 013\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4267-p4267",
+    "group": "targeted_regression",
+    "text": "Telephone: +91 22 4079 1000",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 27,
+        "text": "+91 22 4079 1000"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4280-p4280",
+    "group": "targeted_regression",
+    "text": "Telephone: +91 22 30752929, +91 22 30752928 and +91 22 30752914",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 26,
+        "text": "+91 22 30752929"
+      },
+      {
+        "label": "PHONE",
+        "start": 28,
+        "end": 43,
+        "text": "+91 22 30752928"
+      },
+      {
+        "label": "PHONE",
+        "start": 48,
+        "end": 63,
+        "text": "+91 22 30752914"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4282-p4282",
+    "group": "targeted_regression",
+    "text": "Contact Person: Eric Bacha/ Sachin Gawade/ Pravin Teli/ Siddharth Jadhav/ Tushar Gavankar",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 16,
+        "end": 26,
+        "text": "Eric Bacha"
+      },
+      {
+        "label": "PERSON",
+        "start": 28,
+        "end": 41,
+        "text": "Sachin Gawade"
+      },
+      {
+        "label": "PERSON",
+        "start": 43,
+        "end": 54,
+        "text": "Pravin Teli"
+      },
+      {
+        "label": "PERSON",
+        "start": 56,
+        "end": 72,
+        "text": "Siddharth Jadhav"
+      },
+      {
+        "label": "PERSON",
+        "start": 74,
+        "end": 89,
+        "text": "Tushar Gavankar"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4289-p4289",
+    "group": "targeted_regression",
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 79,
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020"
+      },
+      {
+        "label": "PHONE",
+        "start": 91,
+        "end": 103,
+        "text": "022-68052182"
+      },
+      {
+        "label": "EMAIL",
+        "start": 111,
+        "end": 131,
+        "text": "Ipocmg@icicibank.com"
+      },
+      {
+        "label": "PERSON",
+        "start": 175,
+        "end": 186,
+        "text": "Varun Badai"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4291-p4291",
+    "group": "targeted_regression",
+    "text": "CIN: L65190GJ1994PLC021012",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p4339-p4342",
+    "group": "targeted_regression",
+    "text": "5th Floor, Wing A, Gopal House\nS. No. 127/1B/1, Plot A1 Opp Harshal Hall Kothrud\nPune – 411 038\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 114,
+        "text": "5th Floor, Wing A, Gopal House\nS. No. 127/1B/1, Plot A1 Opp Harshal Hall Kothrud\nPune – 411 038\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4344-p4344",
+    "group": "targeted_regression",
+    "text": "Telephone: + 91 (20) 6729 5100",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 30,
+        "text": "+ 91 (20) 6729 5100"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4345-p4346",
+    "group": "targeted_regression",
+    "text": "Firm registration number: 105215W/ W100057\nPeer review number: 014680",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p4354-p4356",
+    "group": "targeted_regression",
+    "text": "5th Floor, Gopal House\nOpposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 110,
+        "text": "5th Floor, Gopal House\nOpposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4358-p4358",
+    "group": "targeted_regression",
+    "text": "Telephone: + 91 20 6729 5100",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 28,
+        "text": "+ 91 20 6729 5100"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4374-p4375",
+    "group": "targeted_regression",
+    "text": "8th Floor, Onyx Tower North Main Road\nKoregaon Park, Pune – 411 001 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 86,
+        "text": "8th Floor, Onyx Tower North Main Road\nKoregaon Park, Pune – 411 001 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4384-p4386",
+    "group": "targeted_regression",
+    "text": "No. 401, 401(A), 401(B)\n& 402, 402(A), 402(B), 4th Floor\nSignature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 141,
+        "text": "No. 401, 401(A), 401(B)\n& 402, 402(A), 402(B), 4th Floor\nSignature Building, Bhandarkar road Shivaji Nagar, Pune – 411 004 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4387-p4387",
+    "group": "targeted_regression",
+    "text": "Telephone: +91 20 2640 3100 Contact Person: Chitra Raste Website: www.eximbankindia.in/ Email: pro@eximbankindia.in",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 27,
+        "text": "+91 20 2640 3100"
+      },
+      {
+        "label": "PERSON",
+        "start": 44,
+        "end": 56,
+        "text": "Chitra Raste"
+      },
+      {
+        "label": "EMAIL",
+        "start": 95,
+        "end": 115,
+        "text": "pro@eximbankindia.in"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4394-p4394",
+    "group": "targeted_regression",
+    "text": "Telephone: +91-20-26234000 Contact Person: Sharmila Joshi Website: www.indusind.com/ Email: sharmila.joshi@indusind.com",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 26,
+        "text": "+91-20-26234000"
+      },
+      {
+        "label": "PERSON",
+        "start": 43,
+        "end": 57,
+        "text": "Sharmila Joshi"
+      },
+      {
+        "label": "EMAIL",
+        "start": 92,
+        "end": 119,
+        "text": "sharmila.joshi@indusind.com"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4399-p4399",
+    "group": "targeted_regression",
+    "text": "Telephone: + 91 8879770456 Contact Person: Cherag Gyara Website: www.icicibank.com Email: cherag.gyara@icicibank.com",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 26,
+        "text": "+ 91 8879770456"
+      },
+      {
+        "label": "PERSON",
+        "start": 43,
+        "end": 55,
+        "text": "Cherag Gyara"
+      },
+      {
+        "label": "EMAIL",
+        "start": 90,
+        "end": 116,
+        "text": "cherag.gyara@icicibank.com"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4402-p4404",
+    "group": "targeted_regression",
+    "text": "5th Floor, Marathon IT Park Bund Garden Road\nPune – 411 001\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 78,
+        "text": "5th Floor, Marathon IT Park Bund Garden Road\nPune – 411 001\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4409-p4411",
+    "group": "targeted_regression",
+    "text": "Tara Chambers, Mumbai-Pune Road, Wakdewadi\nPune – 411 003\nMaharashtra, India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 76,
+        "text": "Tara Chambers, Mumbai-Pune Road, Wakdewadi\nPune – 411 003\nMaharashtra, India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4418-p4418",
+    "group": "targeted_regression",
+    "text": "Telephone: + 91 91586 40360",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 27,
+        "text": "+ 91 91586 40360"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4419-p4419",
+    "group": "targeted_regression",
+    "text": "Contact Person: Ashish Mathew Pulloor",
+    "spans": [
+      {
+        "label": "PERSON",
+        "start": 16,
+        "end": 37,
+        "text": "Ashish Mathew Pulloor"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4424-p4425",
+    "group": "targeted_regression",
+    "text": "The Capital\nUnit no. 1601, B- wing BKC, Mumbai Maharashtra India",
+    "spans": [
+      {
+        "label": "ADDRESS",
+        "start": 0,
+        "end": 64,
+        "text": "The Capital\nUnit no. 1601, B- wing BKC, Mumbai Maharashtra India"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p4426-p4426",
+    "group": "targeted_regression",
+    "text": "Telephone: +91 20 7157 6403 Contact Person: Anand Soni Website: www.bajajfinance.com Email: anand.soni@bajajfinserv.in",
+    "spans": [
+      {
+        "label": "PHONE",
+        "start": 11,
+        "end": 27,
+        "text": "+91 20 7157 6403"
+      },
+      {
+        "label": "PERSON",
+        "start": 44,
+        "end": 54,
+        "text": "Anand Soni"
+      },
+      {
+        "label": "EMAIL",
+        "start": 92,
+        "end": 118,
+        "text": "anand.soni@bajajfinserv.in"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p491-p491",
+    "group": "random_source_sample",
+    "text": "Such centres of the RTAs where ASBA Bidders can submit the ASBA Forms (in case of UPI Bidder only ASBA Forms under UPI). The details of such Designated RTA Locations, along with the names and contact details of the RTAs are available on the respective websites of the Stock",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p447-p447",
+    "group": "random_source_sample",
+    "text": "SCSB Branches for SCSBs, Specified Locations for Syndicate, Broker Centres for Registered Brokers, Designated RTA Locations for RTAs and Designated CDP Locations for CDPs",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p384-p384",
+    "group": "random_source_sample",
+    "text": "Anchor Investors, and allocation to Anchor Investors shall be completed",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3017-p3017",
+    "group": "random_source_sample",
+    "text": "We are required to obtain and maintain a number of statutory and regulatory licenses, registrations, permits and approvals under central, state and local government rules in India, for carrying out our business and for our manufacturing facility, among other things, relating to occupational health and safety (including laws regulating the generation, storage, handling, use and transportation of waste materials, the emission and discharge of hazardous waste materials into soil, air or water, and the health and safety of employees) and mandatory certification requirements for our facilities and products. For further information on the nature of the material approvals and licenses required for our business and for information on the material approvals applied for, see “Government and Other Approvals” on page 393. In addition, we will need to apply for renewal of certain approvals, licenses registrations and permits, which expire or seek new approvals, licenses, registrations and permits from time to time, as and when required in the ordinary course of our business. While there has not been any non-compliance during the three-month period ended June 30, 2025 or Fiscals 2025, 2024, and 2023, there can be no assurance that we will be in compliance at all times with such laws, regulations and the terms and conditions of any such consents or permits. If we violate or fail to comply adequately with these requirements, we could be fined or otherwise sanctioned by the relevant regulators.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p852-p852",
+    "group": "random_source_sample",
+    "text": "Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3976-p3976",
+    "group": "random_source_sample",
+    "text": "SECTION III – INTRODUCTION THE OFFER",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p2247-p2247",
+    "group": "random_source_sample",
+    "text": "Three-month period ended June 30, 2025",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3968-p3968",
+    "group": "random_source_sample",
+    "text": "Our ability to pay dividends in the future will depend on our future cash flows, working capital requirements, capital expenditures and financial condition.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p713-p713",
+    "group": "random_source_sample",
+    "text": "Central Depository Services (India) Limited",
+    "spans": [
+      {
+        "label": "COMPANY",
+        "start": 0,
+        "end": 43,
+        "text": "Central Depository Services (India) Limited"
+      }
+    ]
+  },
+  {
+    "id": "word/document.xml:p3104-p3104",
+    "group": "random_source_sample",
+    "text": "Secondary transfer of equity shares",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p426-p426",
+    "group": "random_source_sample",
+    "text": "Except in relation to any Bids received from the Anchor Investors, the date after which the Designated Intermediaries will not accept any Bids, being December 18, 2025, which shall be published in all editions of Financial Express (a widely circulated English national daily newspaper), all editions of Jansatta (a widely circulated Hindi national daily newspaper), and Pune edition of Loksatta (a widely circulated Marathi daily newspaper, Marathi being the regional language of Maharashtra, where our Registered Office is located). In case of any revisions, the extended Bid/Offer Closing Date shall also be notified on the websites and terminals of the members of the Syndicate, as required under the SEBI ICDR Regulations and communicated to the Designated Intermediaries and the Sponsor Banks.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p572-p572",
+    "group": "random_source_sample",
+    "text": "information about use of the Offer Proceeds, please see section titled “Objects of the Offer” on page 106",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p1383-p1383",
+    "group": "random_source_sample",
+    "text": "Number of Equity Shares of face value of",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p2224-p2224",
+    "group": "random_source_sample",
+    "text": "An investment in equity shares involves a high degree of risk. Prospective investors should carefully consider all the information in this Red Herring Prospectus, including the risks and uncertainties described below, before making an investment in our Equity Shares. The risks described in this section are those that we consider to be the most significant to our business, results of operations and financial condition as of the date of this Red Herring Prospectus. The risks described below may not be exhaustive or the only ones relevant to us, the Equity Shares or the industry segments in which we currently operate. Additional risks and uncertainties, not presently known to us or that we currently do not deem material may arise or may become material in the future. If any or a combination of the following risks, or other risks that are not currently known or are not currently deemed material, actually occur, our business, results of operations, cash flows and financial condition could be adversely affected, the trading price of our Equity Shares could decline, and investors may lose all or part of their investment. The risk factors have been presented below on the basis of their materiality. Furthermore, some events may be material collectively rather than individually. Some events may not be material at present but may have a material impact in the future. In making an investment decision, prospective investors must rely on their own examination of us and our business and the terms of the Offer, including the merits and risks involved. Potential investors should consult their tax, financial and legal advisors about the particular consequences of purchasing our Equity Shares.",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3827-p3827",
+    "group": "random_source_sample",
+    "text": "the availability, terms and costs of financing;",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p906-p906",
+    "group": "random_source_sample",
+    "text": "Atal Mission for Rejuvenation and Urban Transformation",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3986-p3986",
+    "group": "random_source_sample",
+    "text": "Up to [●] Equity Shares of face value of ₹5 each, aggregating up to ₹2,900.00 million",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p846-p846",
+    "group": "random_source_sample",
+    "text": "Securities Contracts (Regulation) Rules, 1957",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p595-p595",
+    "group": "random_source_sample",
+    "text": "Qualified institutional buyers as defined under Regulation 2(1)(ss) of the SEBI ICDR Regulations",
+    "spans": []
+  },
+  {
+    "id": "word/document.xml:p3485-p3485",
+    "group": "random_source_sample",
+    "text": "The installed capacity are based on various assumptions and estimates, including standard capacity calculation practice in the Indian winding wires industry and capacity of other ancillary equipment installed at the relevant manufacturing facility. Actual available annual capacity is calculated by considering above mentioned factors and percentage of utilization is calculated by considering available capacity.",
+    "spans": []
+  }
+]
